@@ -21,9 +21,4 @@ def countdown_with_sleep(number)
   puts "HAPPY NEW YEAR!"
 end
 
-puts "Enter countdown time: "
-time_to_go = gets.chomp
-number = time_to_go
-countdown(time_to_go)
-countdown_with_sleep(number)
 
