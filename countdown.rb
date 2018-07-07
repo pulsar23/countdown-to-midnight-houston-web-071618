@@ -1,7 +1,4 @@
-#write your code here
-#puts "Enter countdown time: "
-#time_to_go = gets.chomp
-#number = time_to_go
+
 
 def countdown(time_to_go)
   while time_to_go > 0
