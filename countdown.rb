@@ -8,7 +8,7 @@ def countdown(time_to_go)
     puts "#{time_to_go} SECOND(S)!"
     time_to_go-=1
   end
-  puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
   
 end
 
